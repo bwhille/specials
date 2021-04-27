@@ -44,7 +44,7 @@ duckdns\.org$
 (\.casino$|\.bet$|\.poker$)
 
 # Sperrt alle Domains in Zusammenhang mit Instagram:
-instagram
+instagram\.com$
 
 # Sperrt alle Domains in Zusammenhang mit Facebook:
-facebook
+facebook(\.com$|\.de$
