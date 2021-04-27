@@ -1,2 +1,2 @@
 # Sperrt alle Domains in Zusammenhang mit Facebook:
-(\.|^)facebook(\.com$|\.de$)
+https://facebook.com
