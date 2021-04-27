@@ -47,4 +47,4 @@ duckdns\.org$
 instagram\.com$
 
 # Sperrt alle Domains in Zusammenhang mit Facebook:
-facebook(\.com$|\.de$
+facebook(\.com$|\.de$)
