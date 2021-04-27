@@ -37,12 +37,6 @@ duckdns\.org$
 
 # Einträge für Jugendschutz:
 
-# Sperrt alle Domains verschiedener TLDs (Jugendschutz):
-(\.porn$|\.sex$|\.xxx$|\.sexy$|\.webcam$|\.cam$|\.tube$|\.adult$|\.gay$)
-
-# Sperrt alle Domains verschiedener TLDs (Jugendschutz):
-(\.casino$|\.bet$|\.poker$)
-
 # Sperrt alle Domains in Zusammenhang mit Instagram:
 instagram\.com$
 
